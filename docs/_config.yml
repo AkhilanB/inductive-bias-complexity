@@ -22,8 +22,8 @@ title: "Model-agnostic Measure of Generalization Difficulty"
 email: akhilan@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Akhilan Boopathy, Kevin Liu, Jaedong Hwang, Shu Ge, Asaad Mohammedsaleh, Ila Fiete
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://AkhilanB.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AkhilanB
 paper_url: https://arxiv.org/pdf/2305.01034.pdf
 
